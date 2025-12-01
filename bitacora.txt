@@ -9,3 +9,8 @@
 01	clone
 02	editar bitácora
 03 	add + commit
+04 	Branch RamaA
+05 	Branch RamaB
+06	checkout RamaA
+07 	editar dirección
+08 	add + commit
