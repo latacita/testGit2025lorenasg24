@@ -1,7 +1,7 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%% Alumno (Apellidos, Nombre): Lorena Sánchez	                    %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
