@@ -6,3 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01	clone
+02	editar bitácora
+03 	add + commit
