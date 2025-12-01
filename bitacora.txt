@@ -31,3 +31,10 @@
 21	add + commit
 22	checkout RamaC
 23	add + commit
+24	checkout master
+25					Fast-forward
+26	merge RamaD
+27	merge RamaC
+28	tag conseguido
+29 	add + commit
+
