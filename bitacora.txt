@@ -21,3 +21,13 @@
 13	merge RamaA			Fast-forward
 14	merge RamaB 			Recursiva con conflictos
 15	add + commit
+16	branch RamaC
+17 	checkout RamaC
+18	editar direccion.txt
+19	fetch origin RamaD
+	checkout -b RamaD
+	push -u origin RamaD
+20	crear y editar calificacion.txt
+21	add + commit
+22	checkout RamaC
+23	add + commit
