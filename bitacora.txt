@@ -17,4 +17,7 @@
 09 	checkout RamaB
 10 	editar direccion.txt
 11	add + commit
-
+12	checkout master
+13	merge RamaA			Fast-forward
+14	merge RamaB 			Recursiva con conflictos
+15	add + commit
