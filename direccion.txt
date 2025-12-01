@@ -1,6 +1,6 @@
-Centro:
-Calle:
-Número:
-CP: 
-Ciudad: 
-Provincia: 
+Centro: Universidad de Ciencias
+Calle: no lo se
+Número: tampoco lo se
+CP: 39XXX
+Ciudad: Santander
+Provincia: Cantabria
